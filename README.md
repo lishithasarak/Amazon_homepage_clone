@@ -1,28 +1,27 @@
-# Amazon Homepage Clone
+# Project Name
 
-A static clone of the Amazon homepage created to practice HTML and CSS.
+<ins>Description</ins>  
+This project is created to practice and learn GitHub and basic development concepts.
 
-Technologies Used
+## <ins>Installation</ins>
 
-HTML5
+1. Clone the repository
+2. Open the project folder
+3. Run the project in your browser or editor
 
-CSS3
+## <ins>Usage</ins>
 
-Purpose
+Use this project to:
+- Learn GitHub
+- Practice coding
+- Improve skills
 
-Practice webpage layout and styling
+## <ins>Technologies Used</ins>
 
-Improve HTML & CSS skills
+- HTML
+- CSS
+- JavaScript
 
-Features
+## <ins>Author</ins>
 
-Amazon-like homepage layout
-
-Navbar, product sections, and footer
-
-Static design (no JavaScript)
-
-Disclaimer
-
-This project is for educational purposes only.
-All design inspiration belongs to Amazon.
+Lishitha Sarak . P
