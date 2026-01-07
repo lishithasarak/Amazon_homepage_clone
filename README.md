@@ -1,4 +1,4 @@
-# Project Name
+# Amazon Home Page Clone
 
 ## <ins>Description</ins>  
 This project is created to practice and learn GitHub and basic development concepts.
