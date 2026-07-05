@@ -20,7 +20,6 @@ Use this project to:
 
 - HTML
 - CSS
-- JavaScript
 
 ## <ins>Author</ins>
 
